@@ -1,0 +1,24 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+
+# Data directory (local only — not committed)
+data/
+i2p_network_stats.json
+/i2p_network_stats.json
